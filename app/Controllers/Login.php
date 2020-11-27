@@ -1,10 +1,14 @@
 <?php namespace App\Controllers;
 
-class Home extends BaseController
+class Login extends BaseController
 {
 	public function index()
 	{
-		return view('Umum/Home');
+		return view('Umum/Login');
+	}
+	public function register()
+	{
+		return view('Umum/Register');
 	}
 
 	//--------------------------------------------------------------------
