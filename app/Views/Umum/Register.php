@@ -13,7 +13,7 @@
 			<!-- Title Header Start -->
 			<section class="inner-header-title" style="background-image:url(assets/img/bn2.jpg);">
 				<div class="container">
-					<h1>Register</h1>
+					<h1>Register </h1>
 				</div>
 			</section>
 			<div class="clearfix"></div>
